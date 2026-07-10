@@ -39,7 +39,6 @@ Smart Waste Detection and Classification System
 ├── Comparison_model.ipynb
 ├── Project Report.pdf
 ├── Dataset Links.pdf
-├── Presentation.pdf
 └── README.md
 ```
 
